@@ -117,12 +117,12 @@ This lesson is **L01 of 10** in the DSAI M3 Machine Learning & GenAI course. Lat
 ```
 README.md                    ← You are here
 setup.md                     ← One-time environment setup (do this first)
-pre-class.md                 ← Before-class self-study guide (75 min)
+pre-class.md                 ← Before-class self-study guide (30 min)
 lesson.md                    ← Short reference: overview, takeaways, ML-fit checklist, review Q&A, course map
 reference.md                 ← Further reading and glossary
 environment.yml              ← Python environment for all 10 lessons
 docs/
-  index.html                 ← Interactive key-concepts walkthrough (served at https://flexfengfeng.github.io/dsai-m3-l01-learner/ via GitHub Pages)
+  index.html                 ← Interactive key-concepts walkthrough (served at https://su-ntu-ctp.github.io/6m-data-3.1-Introduction-to-Machine-Learning/ via GitHub Pages)
 interactive/
   mcqs.html                  ← 10-question self-check quiz (open locally in a browser)
 notebooks/
