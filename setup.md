@@ -19,8 +19,8 @@ You do **not** need Jupyter Notebook or JupyterLab installed separately — VS C
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/flexfengfeng/dsai-m3-l01-learner.git
-cd dsai-m3-l01-learner
+git clone https://github.com/su-ntu-ctp/6m-data-3.1-Introduction-to-Machine-Learning.git
+cd 6m-data-3.1-Introduction-to-Machine-Learning
 
 # 2. Create the conda environment
 conda env create -f environment.yml
@@ -81,8 +81,8 @@ conda --version
 ```bash
 mkdir -p ~/repos
 cd ~/repos
-git clone https://github.com/flexfengfeng/dsai-m3-l01-learner.git
-cd dsai-m3-l01-learner
+git clone https://github.com/su-ntu-ctp/6m-data-3.1-Introduction-to-Machine-Learning.git
+cd 6m-data-3.1-Introduction-to-Machine-Learning
 ```
 
 ### Windows WSL
@@ -92,8 +92,8 @@ Clone **inside WSL**, not in the Windows file system. Notebooks run *much* faste
 ```bash
 mkdir -p ~/repos
 cd ~/repos
-git clone https://github.com/flexfengfeng/dsai-m3-l01-learner.git
-cd dsai-m3-l01-learner
+git clone https://github.com/su-ntu-ctp/6m-data-3.1-Introduction-to-Machine-Learning.git
+cd 6m-data-3.1-Introduction-to-Machine-Learning
 ```
 
 ---
@@ -243,7 +243,7 @@ You're probably running notebooks from `/mnt/c/...` (the Windows filesystem). Mo
 
 ### Something else broke
 
-Open an issue: https://github.com/flexfengfeng/dsai-m3-l01-learner/issues. Include:
+Open an issue: https://github.com/6m-data-3.1-Introduction-to-Machine-Learning/issues. Include:
 - macOS or WSL? (and version)
 - Output of `conda --version`, `python --version`, `pip show torch transformers`
 - The full error traceback
