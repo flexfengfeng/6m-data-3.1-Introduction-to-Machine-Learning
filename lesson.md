@@ -1,7 +1,7 @@
 # Lesson — L01 Introduction to Machine Learning
 
-> **Chapter 1 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Weeks 1–2 on the job.*
-> Early in her second week, Aisha from Customer Service hands her a USB drive with 10,000 reviews. Priya, her manager, wants a sentiment breakdown by Friday.
+> **Chapter 1 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Days 1–2 on the job.*
+> On her second day, Aisha from Customer Service hands her a USB drive with 10,000 reviews. Priya, her manager, wants a sentiment breakdown by Friday.
 
 This document is a **short reference** — the lesson itself is taught in the notebooks. Read it for orientation before class, then come back to it for the takeaways, the ML-fit checklist, the review questions, and the course map.
 
@@ -24,7 +24,7 @@ The notebooks are the spine. Run them in order. Come back here for the consolida
 
 ## Overview
 
-Sarah's job this week is to classify 10,000 customer reviews — too many to read by hand, and the rules are too fuzzy to write by hand. That makes it an ML problem. By Friday she will use a pre-trained sentiment model to label every review, recognise that her task is **supervised** learning, and place her work inside the **7-step workflow** that every real ML project follows. L01 exists so the rest of M3 has a shared mental model: every method we will study later — regression, trees, neural nets, GenAI — is a variation on "show the computer examples and let it learn the rules."
+Sarah's job today is to classify 10,000 customer reviews — too many to read by hand, and the rules are too fuzzy to write by hand. That makes it an ML problem. By Friday she will use a pre-trained sentiment model to label every review, recognise that her task is **supervised** learning, and place her work inside the **7-step workflow** that every real ML project follows. L01 exists so the rest of M3 has a shared mental model: every method we will study later — regression, trees, neural nets, GenAI — is a variation on "show the computer examples and let it learn the rules."
 
 ---
 
@@ -150,7 +150,7 @@ L01 establishes the vocabulary and the workflow that the rest of M3 lives inside
 | **L02 — Probability & Statistics for ML** | Answers Sarah's unanswered question: *how sure are we?* Distributions, the Central Limit Theorem, confidence intervals, A/B testing. |
 | **L03 — Supervised Learning** | Preprocessing, train/validate splits, metrics, threshold choice. The supervised category, properly. |
 | **L04 — Supervised Learning (Advanced)** | Decision trees → random forests → gradient boosting. Hyperparameter tuning. |
-| **L05 — Unsupervised Learning** | PCA, k-means, anomaly detection. The category Sarah didn't use this week. |
+| **L05 — Unsupervised Learning** | PCA, k-means, anomaly detection. The category Sarah didn't use today. |
 | **L06 — Time Series** | When the data has a clock — forecasting, decomposition. |
 | **L07 — Neural Networks** | Perceptrons → MLPs, gradient descent, PyTorch training loops. |
 | **L08 — Computer Vision** | Convolutions, CNNs, transfer learning. |
@@ -159,6 +159,6 @@ L01 establishes the vocabulary and the workflow that the rest of M3 lives inside
 
 ---
 
-> *"Sarah — your model says most reviews are positive. But are the positive ones actually positive? How do we know we can trust that number?"* — Priya, end of week 2.
+> *"Sarah — your model says most reviews are positive. But are the positive ones actually positive? How do we know we can trust that number?"* — Priya, end of Day 2.
 >
 > Come to L02 ready to help Sarah answer it.
