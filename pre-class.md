@@ -7,7 +7,7 @@ This is the simplest version of "show up prepared": watch a short intro video, r
 | Step | Time | What you do |
 |---|---|---|
 | **1. Watch the intro video** | ~5 min  | [L01 intro video on YouTube](https://youtu.be/ABbZdADQEew) — sets up Sarah's story and what you'll do in this lesson |
-| **2. Try it** | ~20 min | Open and run `notebooks/01_monday_morning.ipynb` |
+| **2. Try it** | ~20 min | Open and run `notebooks/01_morning_briefing.ipynb` |
 | **3. Reflect** | ~5 min  | Three short questions below |
 
 ---
@@ -22,9 +22,9 @@ Before you open the notebook, watch the **[L01 Introduction to Machine Learning]
 
 ## Step 1 — Try it (~20 min)
 
-Open **`notebooks/01_monday_morning.ipynb`** in VS Code with the `dsai-m3` kernel. Run every cell top to bottom. Read the markdown between cells. Don't skip any cell.
+Open **`notebooks/01_morning_briefing.ipynb`** in VS Code with the `dsai-m3` kernel. Run every cell top to bottom. Read the markdown between cells. Don't skip any cell.
 
-The notebook drops you into Sarah Chen's first Monday at NorthStar Retail. Aisha from Customer Service hands Sarah a USB drive with 10,000 reviews; Priya wants answers by Friday. You'll try hand-written rules (and watch them fail), then run a pretrained ML model on the same reviews and watch it succeed in seconds.
+The notebook drops you into Sarah Chen's first day at NorthStar Retail. Aisha from Customer Service hands Sarah a USB drive with 10,000 reviews; Priya wants answers by the end of the day. You'll try hand-written rules (and watch them fail), then run a pretrained ML model on the same reviews and watch it succeed in seconds.
 
 If this is your first time running a notebook in this repo, see [setup.md](./setup.md) once — you only need to do this for the first lesson.
 

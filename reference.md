@@ -152,7 +152,7 @@ A third split (separate from training and test), used to tune hyperparameters wi
 
 **Sarah Chen** — Customer Experience Analyst, NorthStar Retail. Our protagonist across all 10 lessons. Starts with a business degree, a few SQL and Python evening courses, and no formal ML training. By the end of the course she is leading a small data science team.
 
-**Priya Raman** — CMO at NorthStar and Sarah's manager in L01–L03. The one who hands Sarah the 10,000 reviews on her first Monday. Her recurring pressure — *"Show me the money, not the accuracy"* — will shape how every future model is evaluated.
+**Priya Raman** — CMO at NorthStar and Sarah's manager in L01–L03. The one who hands Sarah the 10,000 reviews on her first day. Her recurring pressure — *"Show me the money, not the accuracy"* — will shape how every future model is evaluated.
 
 **Aisha Patel** — Head of Customer Service. She carries the USB drive of reviews into Sarah's office in L01 and becomes a recurring source of real operational data across the course.
 

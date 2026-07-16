@@ -1,7 +1,7 @@
 # Lesson — L01 Introduction to Machine Learning
 
 > **Chapter 1 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Days 1–2 on the job.*
-> On her second day, Aisha from Customer Service hands her a USB drive with 10,000 reviews. Priya, her manager, wants a sentiment breakdown by Friday.
+> On her second day, Aisha from Customer Service hands her a USB drive with 10,000 reviews. Priya, her manager, wants a sentiment breakdown by the end of the day.
 
 This document is a **short reference** — the lesson itself is taught in the notebooks. Read it for orientation before class, then come back to it for the takeaways, the ML-fit checklist, the review questions, and the course map.
 
@@ -11,7 +11,7 @@ This document is a **short reference** — the lesson itself is taught in the no
 
 | Stage | Where to go |
 |---|---|
-| **Pre-class** | `pre-class.md` + `notebooks/01_monday_morning.ipynb` |
+| **Pre-class** | `pre-class.md` + `notebooks/01_morning_briefing.ipynb` |
 | **In-class — Part 1: What is ML?** | `notebooks/02_what_is_ml.ipynb` |
 | **In-class — Part 2: Three categories** | `notebooks/03_three_categories.ipynb` |
 | **In-class — Part 3: The ML workflow** | `notebooks/04_ml_workflow.ipynb` |
@@ -24,7 +24,7 @@ The notebooks are the spine. Run them in order. Come back here for the consolida
 
 ## Overview
 
-Sarah's job today is to classify 10,000 customer reviews — too many to read by hand, and the rules are too fuzzy to write by hand. That makes it an ML problem. By Friday she will use a pre-trained sentiment model to label every review, recognise that her task is **supervised** learning, and place her work inside the **7-step workflow** that every real ML project follows. L01 exists so the rest of M3 has a shared mental model: every method we will study later — regression, trees, neural nets, GenAI — is a variation on "show the computer examples and let it learn the rules."
+Sarah's job today is to classify 10,000 customer reviews — too many to read by hand, and the rules are too fuzzy to write by hand. That makes it an ML problem. By the end of the day she will use a pre-trained sentiment model to label every review, recognise that her task is **supervised** learning, and place her work inside the **7-step workflow** that every real ML project follows. L01 exists so the rest of M3 has a shared mental model: every method we will study later — regression, trees, neural nets, GenAI — is a variation on "show the computer examples and let it learn the rules."
 
 ---
 
