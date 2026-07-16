@@ -1,6 +1,6 @@
 # L01 — Introduction to Machine Learning
 
-> *Meet Sarah Chen. It's the first week of her story as a Customer Experience Analyst at NorthStar Retail.*
+> *Meet Sarah Chen. It's the first days of her story as a Customer Experience Analyst at NorthStar Retail.*
 > By the end of this lesson you will have run a machine learning model yourself, know when ML is the right tool, and understand the full workflow from a business problem to a deployed model — seen through Sarah's first real project on the job.
 
 ---
@@ -25,7 +25,7 @@
 
 ## Monday morning at NorthStar
 
-You are **Sarah Chen**, newly hired as a Customer Experience Analyst at **NorthStar Retail**, a mid-sized online clothing store. Early in your second week, **Aisha Patel** from Customer Service walks in with a USB drive containing 10,000 customer reviews. Your manager, **Priya Raman**, says:
+You are **Sarah Chen**, newly hired as a Customer Experience Analyst at **NorthStar Retail**, a mid-sized online clothing store. On your second day, **Aisha Patel** from Customer Service walks in with a USB drive containing 10,000 customer reviews. Your manager, **Priya Raman**, says:
 
 > *"By Friday, I need to know which of these are positive, which are negative, and whether the negative ones are mostly about sizing, quality, or delivery. Please."*
 
