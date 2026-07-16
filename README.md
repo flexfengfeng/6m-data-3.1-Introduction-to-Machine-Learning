@@ -23,11 +23,11 @@
 
 ---
 
-## Monday morning at NorthStar
+## This morning at NorthStar
 
 You are **Sarah Chen**, newly hired as a Customer Experience Analyst at **NorthStar Retail**, a mid-sized online clothing store. On your second day, **Aisha Patel** from Customer Service walks in with a USB drive containing 10,000 customer reviews. Your manager, **Priya Raman**, says:
 
-> *"By Friday, I need to know which of these are positive, which are negative, and whether the negative ones are mostly about sizing, quality, or delivery. Please."*
+> *"By the end of the day, I need to know which of these are positive, which are negative, and whether the negative ones are mostly about sizing, quality, or delivery. Please."*
 
 Reading 10,000 reviews by hand would take a full work-week. Hiring a team is not on the table. Is there a faster way?
 
@@ -60,7 +60,7 @@ Reading 10,000 reviews by hand would take a full work-week. Hiring a team is not
 
 You will:
 
-- Open and run `01_monday_morning.ipynb` (~15 min) — Sarah's Monday, a rule-based attempt, a working ML model
+- Open and run `01_morning_briefing.ipynb` (~15 min) — Sarah's first morning, a rule-based attempt, a working ML model
 - Reflect on what surprised you
 - Watch a short intro video, then explore the [**interactive key-concepts page**](https://su-ntu-ctp.github.io/6m-data-3.1-Introduction-to-Machine-Learning/) (GitHub Pages)
 - Try three mini-exercises with sample answers
@@ -127,7 +127,7 @@ docs/
 interactive/
   mcqs.html                  ← 10-question self-check quiz (open locally in a browser)
 notebooks/
-  01_monday_morning.ipynb    ← Sarah's pre-class story (~15 min, before class)
+  01_morning_briefing.ipynb    ← Sarah's pre-class story (~15 min, before class)
   02_what_is_ml.ipynb        ← What is ML? (in class)
   03_three_categories.ipynb  ← Three categories of ML (in class)
   04_ml_workflow.ipynb       ← The full ML workflow (in class)
